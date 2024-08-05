@@ -1,17 +1,20 @@
-[
-  {
-    "name": "Chip-and-Dale-Rescue-Rangers",
-    "desc": "bla bla blaa",
-    "genre": "Action"
-  },
-  {
-    "name": "Chip-and-Dale-Rescue-Rangers",
-    "desc": "bla bla blaa",
-    "genre": "Action"
-  },
-  {
-    "name": "Chip-and-Dale-Rescue-Rangers",
-    "desc": "bla bla blaa",
-    "genre": "Action"
-  }
-]
+{
+  "consoleType": "nes-games",
+  "games": [
+    {
+      "name": "Chip-and-Dale-Rescue-Rangers",
+      "desc": "bla bla blaa",
+      "genre": "Action"
+    },
+    {
+      "name": "Chip-and-Dale-Rescue-Rangers",
+      "desc": "bla bla blaa",
+      "genre": "Action"
+    },
+    {
+      "name": "Chip-and-Dale-Rescue-Rangers",
+      "desc": "bla bla blaa",
+      "genre": "Action"
+    }
+  ]
+}
