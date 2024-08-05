@@ -2,11 +2,16 @@
   {
     "name": "Chip-and-Dale-Rescue-Rangers",
     "desc": "bla bla blaa",
-    "Genre ": "Action"
+    "genre": "Action"
   },
   {
     "name": "Chip-and-Dale-Rescue-Rangers",
     "desc": "bla bla blaa",
-    "Genre ": "Action"
+    "genre": "Action"
+  },
+  {
+    "name": "Chip-and-Dale-Rescue-Rangers",
+    "desc": "bla bla blaa",
+    "genre": "Action"
   }
 ]
