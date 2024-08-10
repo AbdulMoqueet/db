@@ -1,5 +1,5 @@
 {
-  "consoleType": "nes-games",
+  "consoleType": "NES",
   "games": [
     {
       "name": "Chip and Dale Rescue Rangers",
@@ -7,12 +7,7 @@
       "genre": "Action"
     },
     {
-      "name": "Chip-and-Dale-Rescue-Rangers",
-      "desc": "bla bla blaa",
-      "genre": "Action"
-    },
-    {
-      "name": "Chip-and-Dale-Rescue-Rangers",
+      "name": "Super Mario Bros",
       "desc": "bla bla blaa",
       "genre": "Action"
     }
